@@ -31,15 +31,15 @@ This assignment focuses on product understanding rather than vulnerability ident
 
 This exercise uses **OWASP FinBot CTF** as the target application.
 
-OWASP FinBot is an intentionally vulnerable agentic AI platform developed by the OWASP GenAI Security Project for education, security research, and hands-on learning.
+OWASP FinBot is an intentionally vulnerable agentic AI platform developed by the OWASP GenAI Security Project for education, security research and hands-on learning.
 
-The purpose of this project is not to develop or modify FinBot, but to perform a structured AI Product Security review of the platform from the perspective of an AI Product Security Analyst.
+The purpose of this project is to perform a structured AI Product Security analysis of FinBot from the perspective of a member of the FinBot Product Security Team.
+
+The objective is to identify security risks, understand business and technical workflows and support secure product development prior to production deployment.
 
 All product ownership, source code, and intellectual property belong to the OWASP GenAI Security Project and its contributors.
 
-Project Repository:
-
-https://github.com/GenAI-Security-Project/finbot-ctf
+Project Repository: https://github.com/GenAI-Security-Project/finbot-ctf
 
 
 ## Assumptions
