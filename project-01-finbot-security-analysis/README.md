@@ -12,7 +12,7 @@ The project focuses on understanding the product, identifying critical assets, a
 
 ### OWASP FinBot CTF
 
-OWASP FinBot is an intentionally vulnerable multi-agent AI platform designed for security education, research, and hands-on learning.
+OWASP FinBot is an intentionally vulnerable multi-agent AI platform designed for security education, research and hands-on learning.
 
 The platform simulates a financial services environment where AI agents perform business operations such as:
 
@@ -24,7 +24,7 @@ The platform simulates a financial services environment where AI agents perform 
 
 Project Repository: https://github.com/GenAI-Security-Project/finbot-ctf
 
-All product ownership, source code, trademarks, and intellectual property belong to the OWASP GenAI Security Project and its contributors.
+All product ownership, source code, trademarks and intellectual property belong to the OWASP GenAI Security Project and its contributors.
 
 
 ## Project Scope
