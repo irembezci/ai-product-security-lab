@@ -6,8 +6,6 @@ Before performing threat modeling or security analysis, it is essential to under
 
 This exercise focuses on gathering foundational information about the target system. The goal is not to identify vulnerabilities but to build a clear understanding of the product and its business context.
 
----
-
 ## Scenario
 
 You are an AI Product Security Analyst assigned to review FinBot, a multi-agent AI platform used in the financial services industry.
@@ -15,8 +13,6 @@ You are an AI Product Security Analyst assigned to review FinBot, a multi-agent 
 The platform automates several business processes including vendor onboarding, invoice processing, payment operations, fraud investigation, and vendor communications.
 
 Before conducting any security assessment, you must first understand the product and document its core characteristics.
-
----
 
 ## Tasks
 
@@ -30,7 +26,6 @@ Consider:
 * Why was it built?
 * What business value does it provide?
 
----
 
 ### 2. Main Users
 
@@ -46,8 +41,6 @@ Examples may include:
 
 Document each user type and their relationship to the platform.
 
----
-
 ### 3. Core Business Functions
 
 Identify the most important business functions provided by the platform.
@@ -61,8 +54,6 @@ Examples:
 * Vendor communications
 
 Explain why each function is important to the business.
-
----
 
 ### 4. AI Components
 
@@ -78,8 +69,6 @@ Examples may include:
 
 Document the role of each component within the platform.
 
----
-
 ### 5. Open Questions
 
 List information that is still unknown and should be clarified before beginning a formal threat model.
@@ -91,8 +80,6 @@ Examples:
 * Which tools can agents access?
 * What sensitive data is processed?
 * How are agents authenticated and authorized?
-
----
 
 ## Deliverable
 
