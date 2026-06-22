@@ -1,7 +1,7 @@
 
 # AI Product Security Lab
 
-A hands-on portfolio repository focused on AI Product Security, threat modeling, risk assessment, and security reviews of AI-powered products and agentic systems. The goal of this repository is to document a structured learning journey while building practical skills in AI Product Security through real-world case studies and security assessments.
+A hands-on portfolio repository focused on AI Product Security, threat modeling, risk assessment and security reviews of AI-powered products and agentic systems. The goal of this repository is to document a structured learning journey while building practical skills in AI Product Security through real-world case studies and security assessments.
 
 
 ## Objectives
